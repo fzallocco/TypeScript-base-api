@@ -1,6 +1,6 @@
 # 1. TypeScript REST API
 
-To move forward with this app, make sure you run the latest long-term support version of Node.js (v18). I set up this typescript environment to enhance API development. Browsers understand JavaScript, and TypeScript permits stable and scalable code, so this node app will compile TypeScript code into JavaScript, alleviating the workload of debugging and fixing JavaScript code. For the sake of simplicity, I did not include a .env file for now although it is industry practice to embed one to avoid carrying out changes to the port inside the live server numerous times. This image is meant to run the core technology since Firebase will provide every other backend service. Below are the instructions to follow to run the app.
+To move forward with this app, make sure you run the latest long-term support version of Node.js (v18). I set up this typescript environment to enhance API development. Browsers understand JavaScript, and TypeScript permits stable and scalable code, so this node app will compile TypeScript code into JavaScript, alleviating the workload of debugging and fixing JavaScript code. For the sake of simplicity, I did not include a .env file although it is common industry practice to embed one to avoid changing the ports inside the live server all the time. This image is meant to run the core technology since backend service providers like Firebase take care of the rest. Below are the instructions to follow to run the app.
 
 Install this image by executing `npm install`
 Next, build app with `npm run build`
