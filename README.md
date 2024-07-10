@@ -39,7 +39,7 @@ Test that typescript is compiled into javascript by executing `tsc`
 
 Finally, executing the last few commands will run the server
 
-A. `npm run build`
+A. `npm install`
 
 B. `npm run build`
 
